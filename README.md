@@ -1,3 +1,3 @@
 # Ray-Casting-Engine
 
-A Fun Litle engine created by me and @DomSim1
+A Fun Little ray caster created by me and @domsim1
